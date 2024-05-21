@@ -9,10 +9,11 @@ CodeEditorWithSnippets.java：主程序入口，包含创建和显示GUI的方�
 预定义的代码片段
 ### 目前支持的代码片段如下：
 
-|前缀|	代码片段|
-|——|——|
-|c|	一个简单的Java类，包含main方法和System.out.println("Hello, World!");语句。|
-|f	|与c相同的代码片段。|
+| 前缀|	代码片段|
+| —— |——|
+| c |	一个简单的Java类，包含main方法和System.out.println("Hello, World!");语句。|
+| f	|与c相同的代码片段。|
+
 ### 如何使用
 使用命令行编译并运行`CodeEditorWithSnippets.java`文件。
 在文本区域中键入代码片段前缀（如c或f），然后按空格键。
